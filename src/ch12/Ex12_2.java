@@ -21,6 +21,7 @@ class Ex12_2 {
     } // main
 }
 
+
 class Student {
     String name = "";
     int ban;
