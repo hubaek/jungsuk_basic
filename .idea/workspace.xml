@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c480bfa5-039c-49d1-bd40-e6151cd9a6a2" name="Changes" comment="예제 12_2 추가">
-      <change afterPath="$PROJECT_DIR$/src/ch7/Ex7_1.java" afterDir="false" />
+    <list default="true" id="c480bfa5-039c-49d1-bd40-e6151cd9a6a2" name="Changes" comment="예제 7_1 추가">
+      <change afterPath="$PROJECT_DIR$/src/ch7/Ex7_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch7/Ex7_9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch12/Ex12_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch12/Ex12_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681342923135</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="예제 7_1 추가">
+      <created>1681390814010</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681390814010</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,6 +110,7 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="예제 12_1 추가" />
     <MESSAGE value="예제 12_2 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="예제 12_2 추가" />
+    <MESSAGE value="예제 7_1 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="예제 7_1 추가" />
   </component>
 </project>
