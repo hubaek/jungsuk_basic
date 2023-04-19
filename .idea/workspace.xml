@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c480bfa5-039c-49d1-bd40-e6151cd9a6a2" name="Changes" comment="객체지향개념2 - 다형성 : 매개변수의 다형성, 여러종류의 객체로 배열 만들기 &#10;예제 7_8,9 추가">
-      <change afterPath="$PROJECT_DIR$/src/ch8/Ex8_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch8/Ex8_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch8/Ex8_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch8/Ex8_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch8/Ex8_9.java" afterDir="false" />
+    <list default="true" id="c480bfa5-039c-49d1-bd40-e6151cd9a6a2" name="Changes" comment="챕터 8. 예외처리 예제 추가">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,16 +31,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "project.propDebugger"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propDebugger&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Ex8_10" type="Application" factoryName="Application" activateToolWindowBeforeRun="false" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch8.Ex8_10" />
@@ -105,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681541131651</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="챕터 8. 예외처리 예제 추가">
+      <created>1681660172076</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1681660172076</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -137,6 +139,7 @@
     <MESSAGE value="예제 12_2 추가" />
     <MESSAGE value="예제 7_1 추가" />
     <MESSAGE value="객체지향개념2 - 다형성 : 매개변수의 다형성, 여러종류의 객체로 배열 만들기 &#10;예제 7_8,9 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="객체지향개념2 - 다형성 : 매개변수의 다형성, 여러종류의 객체로 배열 만들기 &#10;예제 7_8,9 추가" />
+    <MESSAGE value="챕터 8. 예외처리 예제 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="챕터 8. 예외처리 예제 추가" />
   </component>
 </project>
